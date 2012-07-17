@@ -1,4 +1,4 @@
 sample
 ======
 
-This is sample repository of Master branch
+This is sample repository
